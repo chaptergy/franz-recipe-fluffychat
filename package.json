@@ -1,0 +1,12 @@
+{
+  "id": "fluffychat",
+  "name": "FluffyChat",
+  "version": "1.0.0",
+  "description": "FluffyChat",
+  "main": "index.js",
+  "author": "Chaptergy <mail@chaptergy.xyz>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://fluffychat.im/web"
+  }
+}
